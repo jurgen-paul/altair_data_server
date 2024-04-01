@@ -1,5 +1,13 @@
 # Altair data server
 
+**This repo is no longer maintained.**
+In Altair 5,
+the recommended way to work with large datasets is via Vegafusion.
+The documentation contains a section of [how to use the Vegafusion renderer in Altair](https://altair-viz.github.io/user_guide/large_datasets.html#vegafusion-data-transformer)
+and if you need additional performance you can [use the Vegafusion widget renderer](https://vegafusion.io/widget_renderer.html) instead. 
+
+---
+
 [![build status](http://img.shields.io/travis/altair-viz/altair_data_server/master.svg?style=flat)](https://travis-ci.org/altair-viz/altair_data_server)
 [![github actions](https://github.com/altair-viz/altair_data_server/workflows/build/badge.svg)](https://github.com/altair-viz/altair_data_server/actions?query=workflow%3Abuild)
 [![github actions](https://github.com/altair-viz/altair_data_server/workflows/lint/badge.svg)](https://github.com/altair-viz/altair_data_server/actions?query=workflow%3Alint)
